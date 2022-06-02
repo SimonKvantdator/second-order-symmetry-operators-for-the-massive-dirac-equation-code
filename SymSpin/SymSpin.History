@@ -1,0 +1,15 @@
+------------------------------------------------------------------------
+2021
+
+07 September - First version of SymSpin.nb. Chosen version number 0.1.0.
+14 September - Added ToIndexed and fixed bug in SymHToSymMultRule
+15 September - Added TensorMinus and fixed bug with display of valence numbers of SymMult
+17 September - Improved MultScalToSymMultRule
+21 September - Fixed SymMultToMultScalRule and added NumOf(Un)primedSlots for MultScal
+28 October - Fixed a bug with MultScalLeibnizRules
+03 November - Fixed a bug in SortSymMult and a missing definition in IrrDecomposeSymMult
+
+2022
+
+02 June - Fixed bug in IsolateTensorPlus for cases with only one term.
+        - Introduced ExtractCoeffsIndexFree to extract the coefficients of an indexfree spinor in expression or equation.
